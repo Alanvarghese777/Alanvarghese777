@@ -21,9 +21,6 @@ I'm passionate about building, learning, and growing in the world of technology.
 ### Languages
 ![Languages](https://skillicons.dev/icons?i=js,python,java,c,cpp)
 
-### Frameworks & Libraries
-![Frameworks](https://skillicons.dev/icons?i=react,nodejs,express)
-
 ### Tools & Platforms
 ![Tools](https://skillicons.dev/icons?i=git,github,docker,vscode)
 
